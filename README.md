@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LilZenon0
+- 👋 Hi, I’m Zenon
 - 👀 I’m interested in anythings
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
