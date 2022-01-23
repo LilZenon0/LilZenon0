@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zenon
-- 👀 I’m interested in anythings
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cybersecurity, Machine Learning
+- 🌱 I’m currently learning Internetworking
+- 💞️ I’m looking to collaborate on Meta Learning
 - 📫 How to reach me ...
 
 <!---
